@@ -82,6 +82,3 @@ The difficult part was judging whether a difference is real. Two models that dif
 
 With more time I would retrain both models with several seeds and compare the average counts, to confirm whether the fall in the 4 → 9 confusion is a real effect of the deeper network.
 
-## How to run the notebook
-
-Open `mnist_cnn_error_analysis.ipynb` in Google Colab or Jupyter and run all cells from top to bottom. The MNIST data set downloads automatically the first time, so an internet connection is needed. Training takes a few minutes on a laptop.
